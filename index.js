@@ -5,14 +5,14 @@ const emailButton = document.getElementById('emailButton');
 // Define the functions to be executed when the buttons are clicked
 function callUs() {
     
-    window.location.href = 'tel:+1234567890';
+    window.location.href = 'tel:+000000000';
     
 }
 
 function sendEmail() {
     const email = 'example@example.com';
     const subject = 'Hello';
-    const body = 'This is the body of the email.';
+    const body = 'this email is latest so go back to my main site to contact me';
 
     
   const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
