@@ -1,0 +1,54 @@
+body{
+    background-color: #F5F8FA;
+}
+
+.h123{
+    background-color: #ffffff;
+}
+.h-imgs{
+    height: 40px;
+}
+.carousel-inner img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+#pp4{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.rev_cs{
+    height: 100px;
+}
+
+.mon{
+    background-image: url(./p1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.mon2{
+    background-image: url(./p2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.mon3{
+    background-image: url(./p3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#pm1{
+    color: white;
+    font-weight:bolder;
+}
